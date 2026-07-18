@@ -23,6 +23,7 @@
   font-weight: 900;
   font-style: italic;
   position: relative;
+  margin-bottom: 32px;
 }
 
 .depoimento p::before,
